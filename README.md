@@ -33,7 +33,7 @@ Projeto de uma lista em uma tabela com paginação, filtro, quantidade de items 
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="github/github_video.gif" />
+    <img src="src/assets/github-video.gif" />
 </h1>
 
 ## 🚀 Tecnologias
